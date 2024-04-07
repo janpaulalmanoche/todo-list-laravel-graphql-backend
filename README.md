@@ -31,7 +31,7 @@ check the Service  (php) and get the name of it
 - test file tests\Feature\TodolistTest.php
 
 
-## to connect your Database using Database Tool
+## to access database using db tools
 - open workbench
 - create new connection
 - Host name 127.0.0.1
