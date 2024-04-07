@@ -1,7 +1,7 @@
 Installation after cloning
 
 ## setup your .env
-
+copy the contents of .env.example to your .env and set this keys below
 - DB_CONNECTION=mysql
 - DB_HOST=database
 - DB_PORT=3306
