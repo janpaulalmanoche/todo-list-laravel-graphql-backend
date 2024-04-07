@@ -29,3 +29,12 @@ http://localhost:8000/
 check the Service  (php) and get the name of it
 - docker exec todo-list-laravel-graphql-backend-php-1 php artisan test
 - test file tests\Feature\TodolistTest.php
+
+
+## to connect your Database using Database Tool
+- open workbench
+- create new connection
+- Host name 127.0.0.1
+- port 3306
+- Username (your .env DB_USERNAME)
+- Password (your .env DB_PASSWORD)
