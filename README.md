@@ -1,3 +1,8 @@
+## Tech Stack
+- laravel 11
+- php 8.2
+- nuwave/lighthouse 6.36
+
 Installation after cloning
 
 ## setup your .env
