@@ -18,7 +18,7 @@ copy the contents of .env.example to your .env and set this keys below
 http://localhost:8000/
 
 ## to run Test file
-- docker-compose ps
-check the ## Service  (php) and get the name of it
+- docker-compose ps /n
+check the Service  (php) and get the name of it
 - docker exec todo-list-laravel-graphql-backend-php-1 php artisan test
 - test file tests\Feature\TodolistTest.php
